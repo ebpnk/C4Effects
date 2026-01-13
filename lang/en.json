@@ -1,0 +1,15 @@
+{
+  "c4effects.menu.title": "C4 Effects Menu",
+  "c4effects.menu.no_effect": "No effect",
+  "c4effects.menu.active_suffix": " (active)",
+  "c4effects.menu.select_effect": "Selected effect: {0}",
+  "c4effects.menu.no_access": "You do not have permission to use this menu.",
+  "c4effects.menu.disabled": "Menu is disabled.",
+  "c4effects.command.reload_success": "Config reloaded successfully.",
+  "c4effects.command.reload_failed": "Failed to reload config.",
+  "c4effects.command.reload_file_not_found": "Config file not found.",
+  "c4effects.command.reset_success": "Your C4 effect has been reset to default.",
+  "c4effects.particle.created": "Particle '{0}' created and attached to bomb.",
+  "c4effects.particle.removed": "Particle removed (bomb exploded).",
+  "c4effects.particle.no_effect": "No particle created (effect disabled)."
+}

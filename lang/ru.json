@@ -1,0 +1,15 @@
+{
+  "c4effects.menu.title": "Меню эффектов C4",
+  "c4effects.menu.no_effect": "Без эффекта",
+  "c4effects.menu.active_suffix": " (активный)",
+  "c4effects.menu.select_effect": "Выбран эффект: {0}",
+  "c4effects.menu.no_access": "У вас нет прав для использования этого меню.",
+  "c4effects.menu.disabled": "Меню отключено.",
+  "c4effects.command.reload_success": "Конфиг перезагружен успешно.",
+  "c4effects.command.reload_failed": "Не удалось перезагрузить конфиг.",
+  "c4effects.command.reload_file_not_found": "Файл конфигурации не найден.",
+  "c4effects.command.reset_success": "Ваш эффект C4 сброшен к значению по умолчанию.",
+  "c4effects.particle.created": "Частица '{0}' создана и прикреплена к бомбе.",
+  "c4effects.particle.removed": "Частица удалена (бомба взорвалась).",
+  "c4effects.particle.no_effect": "Частица не создана (эффект отключен)."
+}
