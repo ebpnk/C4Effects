@@ -92,7 +92,7 @@ C4 bomb particle effects
 ```
 # Commands
 ```
-css_c4menu - menu
-css_c4effects_reset - Reset your C4 effect to default
-css_c4effects_reload - Reload C4 Effects config
+css_c4menu - menu | @css/c4bomb
+css_c4effects_reset - Reset your C4 effect to default | @css/c4bomb
+css_c4effects_reload - Reload C4 Effects config | @css/c4bomb
 ```
